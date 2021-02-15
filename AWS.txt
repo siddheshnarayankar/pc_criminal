@@ -1,0 +1,9 @@
+
+db_USER Name:admin
+password:password
+
+AWS
+userName:mangeshitole@gmail.com
+password:M@astermind007
+
+ 
